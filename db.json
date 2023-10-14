@@ -1,0 +1,46 @@
+{
+  "kebaps": [
+    {
+      "name": "Adana-Kebap",
+      "imagePath": "/images/adana.jpg"
+    },
+    {
+      "name": "Urfa-Kebap",
+      "imagePath": "/images/urfa.jpg"
+    },
+    {
+      "name": "Beyti Sarma",
+      "imagePath": "/images/beyti.jpg"
+    },
+    {
+      "name": "Köfte Izgara",
+      "imagePath": "/images/köfte.jpg"
+    }
+  ],
+  "mezeler": [
+    {
+      "name": "Acılı Ezme",
+      "imagePath": "/images/acili-ezme.jpg"
+    },
+    {
+      "name": "Atom",
+      "imagePath": "/images/atom.jpg"
+    },
+    {
+      "name": "Biberborani",
+      "imagePath": "/images/biberborani.jpg"
+    },
+    {
+      "name": "Köz Biber",
+      "imagePath": "/images/koz-biber.jpg"
+    },
+    {
+      "name": "Haydari",
+      "imagePath": "/images/haydari.jpg"
+    },
+    {
+      "name": "Muhammara",
+      "imagePath": "/images/muhammara.jpg"
+    }
+  ]
+}
